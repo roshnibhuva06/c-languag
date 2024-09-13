@@ -1,0 +1,134 @@
+*
+{
+  margin:0%;
+  padding:0%;
+  box-sizing:border-box;
+  
+}
+table
+{
+	
+	padding:20px 0px;
+}
+.user
+{
+   border:1px solid black;
+   padding:10px;
+   border-radius:50%;   
+}
+a
+{
+    text-decoration:none;
+	color:black;
+	font-size:20px;
+	
+}
+.google
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:50%;
+	top:45%;
+	font-size:81px;
+	letter-spacing:-10px;
+}
+.search
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:50%;
+	top:60%;
+	width:40%;
+	border:1px,solid black;
+	height:45px;
+	border-radius:10px;
+}
+.search input
+{
+	width:100%;
+	border:none;
+	outline:none;
+	border-radius:20px;
+}
+.icon
+{
+    position:absolute;
+	transform:translate(-50%,-50%);
+	top:50%;
+	left:20px;
+	font-size:25px;
+}
+.mic
+{
+	height:30px;
+	width:30px;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	top:50%;
+	left:88%;
+}
+.cam
+{
+	height:30px;
+	width:30px;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	top:50%;
+	left:95%;
+}
+.box1
+{
+	position:absolute;
+	top:65%;
+	right:54%;
+	border:5px solid white;
+	width:150px;
+	background-color:#f5f5f5;
+}
+.box2
+{
+	position:absolute;
+	top:65%;
+	right:45%;
+	border:5px solid white;
+	width:150px;
+	background-color:#f5f5f5;
+}
+p
+{
+	position:absolute;
+	top:75%;
+	right:25%;
+}
+.a
+{
+	height:20px;
+	position:absolute;
+	top:35%;
+	right:95%;
+}
+h1
+{
+	height:20px;
+	position:absolute;
+	top:90%;
+	left:1%;
+	font-size:20px;
+	
+}
+h2
+{
+	height:20px;
+	position:absolute;
+	top:95%;
+	left:1%;
+	font-size:20px;
+}
+h3
+{
+    height:20px;
+	position:absolute;
+	top:95%;
+	right:1%;
+	font-size:20px;	
+}
